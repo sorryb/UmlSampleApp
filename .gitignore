@@ -1,2 +1,14 @@
 /.vs
 /bin
+obj/project.assets.json
+obj/project.nuget.cache
+obj/UmlSampleApp.csproj.nuget.dgspec.json
+obj/UmlSampleApp.csproj.nuget.g.props
+obj/UmlSampleApp.csproj.nuget.g.targets
+obj/Debug/net48/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+obj/Debug/net48/UmlSampleApp.AssemblyInfo.cs
+obj/Debug/net48/UmlSampleApp.AssemblyInfoInputs.cache
+obj/Debug/net48/UmlSampleApp.assets.cache
+obj/Debug/net48/UmlSampleApp.csproj.AssemblyReference.cache
+obj/Debug/net48/UmlSampleApp.exe.withSupportedRuntime.config
+obj/Debug/net48/UmlSampleApp.GeneratedMSBuildEditorConfig.editorconfig
